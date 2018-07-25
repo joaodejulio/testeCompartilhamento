@@ -9,6 +9,7 @@ def index(request):
 	#	'texts': texts
 
 	#}
+	#testando
 	return render(request, 'index.html') #quando usar a parte comentada colocar isso dps do index.html: , context
 
 
